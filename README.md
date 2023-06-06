@@ -195,10 +195,8 @@ reg no: 212222100056
 
 
 ## Output screen shots of proteus  :
- when pushbutton is pressed:
  ![WhatsApp Image 2023-05-30 at 10 40 13](https://github.com/25tharunkumar/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/123470785/1ed6f5b9-7138-401b-9d5b-8af0c6710638)
 
- when pushbutton is not pressed:
 ![WhatsApp Image 2023-05-30 at 10 40 27](https://github.com/25tharunkumar/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/123470785/abb86aca-2e1e-4cbe-8f23-1aa310a41c35)
 
  
